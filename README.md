@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Tom. I'm from Poland 🇵🇱. Currently living in Cracow.
+
+I will put here some samples of :page_facing_up: that I wrote during my work.
+
+My:
+- 📧: tom.teresz@outlook.com
+- 💻: https://www.linkedin.com/in/tomteresz/
+- 🌎 http://tom-tech.info
+
+
 <!--
 **tomteresz/tomteresz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
